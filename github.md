@@ -17,3 +17,4 @@ Force delete a branch:
 git branch -D <name>
 
 
+git push -u origin main
