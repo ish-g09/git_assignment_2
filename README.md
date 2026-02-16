@@ -1,5 +1,5 @@
 # git_assignment_2
-This is for software engineering lab
+This is for software engineering lab hitbug assignment - 1
 Name: Ishika Gupta
 Roll No.: 2024BCS-028
 Course: Software Engineering
